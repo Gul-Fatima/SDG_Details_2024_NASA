@@ -1,0 +1,3 @@
+[submodule "glint-master/SDGpics"]
+	path = glint-master/SDGpics
+	url = https://github.com/itsmeumaima/SDGpics.git
